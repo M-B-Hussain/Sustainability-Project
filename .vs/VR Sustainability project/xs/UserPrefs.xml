@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AF874322-2573-2D71-AEE6-ED5F893CAE5B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.terrain-tools@5.0.4/Editor/TerrainToolbox/TerrainToolboxUtilities.cs">
+    <Files>
+      <File FileName="Assets/MouseLook.cs" Line="19" Column="22" />
+      <File FileName="Assets/PlayerMovingController.cs" Line="26" Column="30" />
+      <File FileName="Library/PackageCache/com.unity.terrain-tools@5.0.4/Editor/TerrainToolbox/TerrainToolboxUtilities.cs" Line="2061" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VR Sustainability project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MouseLook.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b541988a-8e7c-42ca-9d95-6c372e1ac297" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

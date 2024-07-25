@@ -1,0 +1,4 @@
+repository "VR Sustainability trash bin@Fishgame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
